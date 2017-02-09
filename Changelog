@@ -1,0 +1,11 @@
+MARS_RELOADED
+
+2/8/2017
+* Removed dropdown menu icons for File, and Edit.
+* Make monaco default font
+* Moved menu bar from within app to OSX native.
+
+2/7/2017
+* Added Gradle build system
+* Implemented native OSX filepicker.
+
